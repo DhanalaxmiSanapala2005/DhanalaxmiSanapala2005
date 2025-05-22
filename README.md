@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dhanalaxmi Sanapala!
+# 👋 Hi there, I'm Sanapala Dhanalaxmi!
 
 🎓 **B.Tech Student in CSE (AI & ML)** | 💻 **Aspiring Software Engineer** | 🌐 **Web Developer & ML Enthusiast**
 
