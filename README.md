@@ -26,7 +26,8 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 ### 💊 [PharmaInsights – AI-Powered Drug Safety Guide](https://github.com/DhanalaxmiSanapala2005/PharmaInsights-AI-Powered-Drug-Safety-Guide)  
 An AI-based system to detect potential risks in medicines based on their ingredients. Users can input drug compositions to receive real-time insights such as side effects, high-risk components, and safety levels, promoting informed medical decisions.
 
-**Tech Used:** Python, Pandas, Scikit-learn, Streamlit
+**Tech Used:**  Python, Flask, Tesseract OCR, OpenCV, Scikit-learn, Pandas, NumPy, HTML, CSS, Bootstrap
+
 
 ---
 
