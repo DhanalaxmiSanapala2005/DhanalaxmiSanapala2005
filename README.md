@@ -23,6 +23,13 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 ## 🚀 Projects
 
+### 💊 [PharmaInsights – AI-Powered Drug Safety Guide](https://github.com/DhanalaxmiSanapala2005/PharmaInsights)  
+An AI-based system to detect potential risks in medicines based on their ingredients. Users can input drug compositions to receive real-time insights such as side effects, high-risk components, and safety levels, promoting informed medical decisions.
+
+**Tech Used:** Python, Pandas, Scikit-learn, Streamlit
+
+---
+
 ### 📝 [Quiz App](https://github.com/DhanalaxmiSanapala2005/Quiz-App)  
 An interactive quiz application featuring multiple-choice questions with scoring functionality for learning and entertainment.  
 **Tech Used:** HTML, CSS, JavaScript
@@ -48,5 +55,5 @@ An AI-based system designed to detect vehicles cutting in on roads, enhancing dr
 - 💻 GitHub: [DhanalaxmiSanapala2005](https://github.com/DhanalaxmiSanapala2005)
 
 ---
-💡 Feedback Welcome!
-I'm still learning and growing as a developer, so I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 🚀
+
+💡 *Feedback Welcome!* I'm still learning and growing as a developer, so I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 🚀
